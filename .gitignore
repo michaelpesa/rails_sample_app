@@ -23,5 +23,5 @@
 .byebug_history
 *.DS_Store
 
-# Ignore Spring files
+# Ignore Spring files.
 /spring/*.pid
